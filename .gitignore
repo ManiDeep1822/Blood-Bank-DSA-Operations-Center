@@ -29,38 +29,33 @@ __pycache__/
 *.pyc
 
 # ==========================================
-# Academic Report & Template Extraction Files
-# (Excluded per repository release configuration)
+# Academic Report & Documentation
 # ==========================================
+report/
 index.html
-lpu_cse_logo.png
-lpu_university_logo.png
-original_template.html
-original_template.pdf
+original_template.*
 original_template_files/
-original_page_1.png
-extracted_image.png
-extracted_img_*.png
+*.pdf
 
 # ==========================================
-# Executive Presentation & Media Assets
-# (Excluded per repository release configuration)
+# Media & Video Production Workspace
 # ==========================================
-Blood_Bank_DSA_Executive_Presentation.pptx
-generate_presentation.py
-generate_demo_video.py
-build_demo/
-export_slides.ps1
-pptx_assets/
-pptx_assets_dark/
-slide_previews/
-record_voice.py
-merge_voice.py
-TELEPROMPTER_SCRIPT.md
-*.wav
-*.mp3
+media/
+build_demo*/
+build_synced*/
+recorded_voice_acts/
 *.mp4
-*.m4a
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+*.pt
+
+# ==========================================
+# Secondary / Archived Projects
+# ==========================================
+Project/
 
 # ==========================================
 # Operating System & IDE Files
