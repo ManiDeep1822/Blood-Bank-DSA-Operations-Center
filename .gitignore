@@ -49,6 +49,7 @@ extracted_img_*.png
 Blood_Bank_DSA_Executive_Presentation.pptx
 generate_presentation.py
 generate_demo_video.py
+build_demo/
 export_slides.ps1
 pptx_assets/
 pptx_assets_dark/
